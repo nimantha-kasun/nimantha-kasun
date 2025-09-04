@@ -98,9 +98,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nimantha-kasun&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimantha-kasun&show_icons=true&locale=en" alt="nimantha-kasun" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimantha-kasun&show_icons=true&locale=en&layout=compact" alt="nimantha-kasun" /></p>
 
 ###
 
@@ -117,14 +116,4 @@
 
 ###
 
-<h4 align="center">------------------------------------------</h4>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimantha-kasun/nimantha-kasun/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimantha-kasun/nimantha-kasun/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nimantha-kasun/nimantha-kasun/output/pacman-contribution-graph.svg">
-</picture>
-
-###
