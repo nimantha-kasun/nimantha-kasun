@@ -93,14 +93,12 @@
 ###
 
 
-| ![github stats](https://github-readme-stats.vercel.app/api?username=nimantha-kasun&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimantha-kasun&theme=tokyonight) |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=nimantha-kasun&show_icons=true&theme=tokyonight) | ![Nimantha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimantha-kasun&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimantha-kasun&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimantha-kasun&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nimantha-kasun&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimantha-kasun&show_icons=true&locale=en" alt="nimantha-kasun" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimantha-kasun&show_icons=true&locale=en&layout=compact" alt="nimantha-kasun" /></p>
 
 ###
 
