@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJqbHFiYWc2YWppdXM4ZXBsNmllbXl1a2RwejU1a3JxZmdpZWZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nimantha-kasun.nimantha-kasun&"  />
