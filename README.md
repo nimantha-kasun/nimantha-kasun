@@ -10,6 +10,9 @@
 ###
 
 <h1 align="center">Hey there 👋</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Explorer;Always+Learning;Always+Growing+🚀;"></a>
+</p>
 
 ###
 
@@ -88,6 +91,13 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+
+| ![github stats](https://github-readme-stats.vercel.app/api?username=nimantha-kasun&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimantha-kasun&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimantha-kasun&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimantha-kasun&show_icons=true&locale=en" alt="nimantha-kasun" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimantha-kasun&show_icons=true&locale=en&layout=compact" alt="nimantha-kasun" /></p>
