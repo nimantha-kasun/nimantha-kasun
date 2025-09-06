@@ -93,7 +93,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimantha-kasun&show_icons=true&locale=en&layout=compact" alt="nimantha-kasun" /></p>
+
 
 <p align="center" padding="10"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimantha-kasun&theme=tokyonight" alt="nimantha-kasun" /></a> </p>
 
