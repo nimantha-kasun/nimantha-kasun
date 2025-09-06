@@ -94,7 +94,7 @@
 
 ###
 
-<p align="center" padding="10"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimantha-kasun" alt="nimantha-kasun" /></a> </p>
+<p align="center" padding="10"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimantha-kasun&theme=tokyonight" alt="nimantha-kasun" /></a> </p>
 
 
 | ![github stats](https://github-readme-stats.vercel.app/api?username=nimantha-kasun&show_icons=true&theme=tokyonight) | ![Nimantha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimantha-kasun&theme=tokyonight) |
